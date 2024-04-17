@@ -2,9 +2,15 @@
 
 Stock Prediction with Machine Learning
 
+We are creating a stock prediction app with python, we use streamlit to create the web app, yahoo finance to get the stock data and facebook profit to predict stock prices in the future. This app gives the raw data that we can analyze and also beautifully plot the current data and forecast data.
+
+# Preview
+<img src="/preview/preview_1.png" width="400"> <img src="/preview/preview_2.png" width="400">
+<img src="/preview/preview_3.png" width="400"> <img src="/preview/preview_4.png" width="400">
+
 ## Requirements
 
-Python and PIP must be installed on the machine
+Python and PIP must be installed on the machine.
 
 ## Deployment
 
